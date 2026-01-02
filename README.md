@@ -1,2 +1,2 @@
-# QA_Python
+# Проект QA_Python
 qa.guru
